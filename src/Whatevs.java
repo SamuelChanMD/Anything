@@ -11,7 +11,7 @@ public class Whatevs {
 	public void newMethod(){
 		int i = 3;
 		if(i == 3){
-			System.out.println("Wow");
+			System.out.println("Wowwie"); // I feel that this is a more appropriate exclamation
 		}
 		else{ System.out.println("How");}
 	}
