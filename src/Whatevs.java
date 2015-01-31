@@ -12,6 +12,7 @@ public class Whatevs {
 		int i = 3;
 		if(i == 3){
 			System.out.println("Wowwie"); // I feel that this is a more appropriate exclamation
+			System.out.println("Nice change Raph, I agree.");
 		}
 		else{ System.out.println("How");}
 	}
