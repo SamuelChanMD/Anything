@@ -5,7 +5,13 @@ public class Whatevs {
 	System.out.println("Hello World!");
 	System.out.println("Hello Samuel!");
 	System.out.println("Git and SourceTree are both getting a little confusing.");
-	my friend told me to make an error; so here it is.
 	}
 	
+	public void newMethod(){
+		int i = 3;
+		if(i == 3){
+			System.out.println("Wow");
+		}
+		else{ System.out.println("How");}
+	}
 }
