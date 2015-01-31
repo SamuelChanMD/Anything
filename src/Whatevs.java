@@ -16,6 +16,7 @@ public class Whatevs {
 		else{ System.out.println("How");}
 	}
 	
+	//This is a method. 
 	public void sleepyHollow(){
 		boolean sleepy = true;
 		
