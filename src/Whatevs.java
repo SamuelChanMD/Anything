@@ -15,4 +15,14 @@ public class Whatevs {
 		}
 		else{ System.out.println("How");}
 	}
+	
+	//This is a method. 
+	public void sleepyHollow(){
+		boolean sleepy = true;
+		
+		if(sleepy){
+			System.out.println("Go to sleep.");
+		}
+		else{ System.out.println("Keep working!");}
+	}
 }
